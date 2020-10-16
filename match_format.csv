@@ -1,0 +1,17 @@
+﻿tournament,year_min,year_max,best_of_set,final_tb,best_of_game,round,regular_tiebreak_trigger,final_set_tiebreak_trigger
+australian_open,0,2018,5,0,6,any,6,0
+australian_open,2019,9999,5,2,6,any,6,6
+wimbledon,0,2018,5,0,6,any,6,0
+wimbledon,2019,9999,5,1,6,any,6,12
+roland_garros,0,9999,5,0,6,any,6,0
+us_open,0,9999,5,1,6,any,6,6
+nextgen,0,9999,5,1,4,any,3,3
+davis_cup,0,2015,5,0,6,any,6,0
+davis_cup,2016,2017,5,1,6,any,6,6
+davis_cup,2018,9999,3,1,6,any,6,6
+olympics,0,2015,3,0,6,regular,6,0
+olympics,0,2015,5,0,6,f,6,0
+olympics,2016,2019,3,1,6,regular,6,6
+olympics,2016,2019,5,1,6,f,6,6
+olympics,2021,9999,3,1,6,any,6,6
+laver_cup,0,9999,3,2,6,any,6,6
